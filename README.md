@@ -15,6 +15,27 @@ The analysis is powered by:
 - `BOB_Source.xlsx` → Data source used for the analysis.  
 
 ---
+## 📂 Folder Structure
+
+```
+atm-data-analysis/
+├── assets/                # 📸 Screenshots of dashboard, visualizations, etc.
+│   ├── dashboard_overview.png
+│   ├── transaction_trends.png
+│   └── customer_insights.png
+│
+├── dataset/               # 📊 Raw dataset files
+│   └── BOB_Source.xlsx
+│
+├── dashboard/             # 📊 Power BI dashboard file
+│   └── ATM.pbix
+│
+└── README.md              # 📘 Project overview and documentation
+
+```
+
+
+---
 
 ## 🔍 Key Insights
 - ATM usage patterns and transaction trends.  
@@ -41,7 +62,6 @@ The analysis is powered by:
 
 ## 📊 Dashboard Preview
 <img width="1209" height="675" alt="Screenshot 2025-08-20 102014" src="https://github.com/user-attachments/assets/46c8ffa8-6fb4-4a79-9d72-17bfff06d8ee" />
-
 <img width="1207" height="674" alt="Screenshot 2025-08-20 102145" src="https://github.com/user-attachments/assets/5322b0f8-9ec6-4bc6-9f88-a1c2c7271554" />
 <img width="1207" height="676" alt="Screenshot 2025-08-20 102216" src="https://github.com/user-attachments/assets/fd528c8c-717e-4cb8-b0c3-a716206a9bea" />
 
